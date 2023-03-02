@@ -1,5 +1,5 @@
 # LAB5_ANDROID
-Rudenko Kirill VTIP402
+Aubakirov VTIP402
 ![Screenshot](https://github.com/harvey133/Lab_5_Android_map/blob/master/scr5.jpeg)
 ![Screenshot](scren1.png)
 
